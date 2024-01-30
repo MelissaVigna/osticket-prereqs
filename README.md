@@ -31,7 +31,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/mjHvBgE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create Virtual Machine in Azure
+Create a Resource Group
+Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
+
+Install Software in Virtual Machine
+Install/Enable IIS in Windows with CGI & Common HTTP Features
+Install PHP Manager for IIS
+Install the Rewrite Module
+
+Create the directory C:\PHP
+Download PHP 7.3.8 and unzip the contents into C:\PHP
+
+Install VC_redist.x86.exe.
+Install MySQL 5.5.62
+
+Open IIS as an Admin
+Register PHP from within IIS
+Reload IIS (Open IIS, Stop and Start the server)
+
 </p>
 <br />
 
